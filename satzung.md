@@ -111,10 +111,3 @@ Ablauf von vier Wochen seit dem Versammlungstag eine weitere Mitgliederversammlu
 1. Der Verein kann durch entsprechenden Beschluss der Mitgliederversammlung aufgelöst werden.
 1. Die Liquidation erfolgt durch den Vorstand.
 1. Das Vereinsvermögen fällt an die Wau Holland Stiftung, Postfach 65 04 43, 22364 Hamburg
-
-Stuttgart, den 23. März 2016.
-
-Unterschriften der Gründungsmitglieder:
-
-
-Name, Geburtsdatum, Anschrift, Unterschrift
