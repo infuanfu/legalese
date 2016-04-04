@@ -62,9 +62,9 @@ Die Gewählten erklärten, dass sie die Wahl annehmen.
 Herr Jehle äußerte, dass der Verein so schnell wie möglich vom Vorstand beim Vereinsregister angemeldet werden solle. 
 Er bat um Abstimmung durch Handzeichen über folgenden Beschlussvorschlag:
 
-Bis zur rechtskräftigen Eintragung des Vereins im Vereinsregister soll der Vorstand nur für die
-Registeranmeldung (Beauftragung eines Notars oder Ratsschreibers, Zahlung der Gerichtskosten)
-sorgen und sonst keine anderen Geschäfte erledigen.
+> Bis zur rechtskräftigen Eintragung des Vereins im Vereinsregister soll der Vorstand nur für die
+> Registeranmeldung (Beauftragung eines Notars oder Ratsschreibers, Zahlung der Gerichtskosten)
+> sorgen und sonst keine anderen Geschäfte erledigen.
 
 Der vertretungsberechtigte Vorstand wurde im Weiteren durch einstimmigen Beschluss ermächtigt, gegebenenfalls 
 notwendige Ergänzungen oder Änderungen bei der Satzung vorzunehmen, falls von Seiten des Registergerichts 
