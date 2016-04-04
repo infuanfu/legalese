@@ -8,14 +8,14 @@ Herr Bauer erklärte sich auf seinen Vorschlag hin bereit, das Protokoll der Ver
 allseits zugestimmt.
 Herr Jehle schlug als Punkte der Tagesordnung (TOP) vor:
 
-1. Aussprache zur Gründung eines Vereins,
-1. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung,
-1. Wahl des Vereinsvorstandes,
+1. Aussprache zur Gründung eines Vereins
+1. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
+1. Wahl des Vereinsvorstandes
 1. Anmeldung des Vereins und weiteres Vorgehen
 
 Die Anwesenden stimmten durch ihr Handzeichen der Tagesordnung zu.
 
-## TOP 1:
+## TOP 1: Aussprache zur Gründung eines Vereins,
 Herr Jehle erläuterte, dass die Dauer der gemeinsamen Projekte und der verwendete Resourcenbedarf so hoch seien, dass 
 es für die Anwesenden und weitere Interessennten sinnvoll sei, einen geordneten rechtlichen Rahmen zu schaffen. Da 
 gemeinsame Veranstaltungen geplant und auch verschiedentlich Geld- und Sachspenden erwartet werden,
@@ -25,7 +25,7 @@ der richtige Weg.
 Die Anwesenden begrüßten diesen Vorschlag einstimmig.
 
 
-## TOP 2:
+## TOP 2: Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
 Der Satzungsentwurf wurde vorgelesen und diskutiert. Anschließend wurde darüber abgestimmt,
 den Verein infuanfu zu errichten und ihm die vorgeschlagene Satzung zu geben. 
 
@@ -38,7 +38,7 @@ Sämtliche Erschienenen erklärten, dem neu errichteten Verein als Gründungsmit
 
 Die Anwesenden unterschrieben die Satzung (_Anlage 2_).
 
-## TOP 3:
+## TOP 3: Wahl des Vereinsvorstandes
 
 Zur Wahl für den Vorstand stellten sich Gregor Jehle, Lasse Pommerenke und Armin Bauer. Die Abstimmung erfolgte einzeln
 durch Handzeichen. 
@@ -51,7 +51,7 @@ Gewählt wurden:
 Die Gewählten erklärten, dass sie die Wahl annehmen.
 
 
-## TOP 4:
+## TOP 4: Anmeldung des Vereins und weiteres Vorgehen
 
 ### Eintragung in das Vereinsregister
 
