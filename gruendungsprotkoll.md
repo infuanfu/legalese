@@ -83,10 +83,10 @@ Der Vorschlag wurde mit sieben Ja-Stimmen einstimmig angenommen.
 Herr Fenkes macht den Vorschlag, dass der Vorstand sofort nach Eintragung wie in der Satzung beschrieben eine Beitragsordnung 
 ausarbeiten solle. Herr Klein trägt vor, dass der Mitgliedsbeitrag nicht zu hoch angesetzt werden solle um potentielle 
 Interessenten nicht abzuschrecken.
-Es erfolgt keine Abstimmung.
+Es erfolgt keine Abstimmung.
 
 
-Die Sitzung endet um 22:40 Uhr .
+Die Sitzung endet um 22:40 Uhr.
 
 
 Ort, Datum
