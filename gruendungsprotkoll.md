@@ -66,12 +66,17 @@ Er bat um Abstimmung durch Handzeichen über folgenden Beschlussvorschlag:
 > Registeranmeldung (Beauftragung eines Notars oder Ratsschreibers, Zahlung der Gerichtskosten)
 > sorgen und sonst keine anderen Geschäfte erledigen.
 
-Der vertretungsberechtigte Vorstand wurde im Weiteren durch einstimmigen Beschluss ermächtigt, gegebenenfalls 
-notwendige Ergänzungen oder Änderungen bei der Satzung vorzunehmen, falls von Seiten des Registergerichts 
-oder des Finanzamts Bedenken gegen die Eintragung vorgebracht werden. 
-Es wurde klargestellt, dass sich diese Ermächtigung nicht auf sonstige Satzungsbestimmungen bezieht.
+Der Beschlussvorschlag wurde einstimmig angenommen.
 
-Ergebnis der Abstimmung: Sieben Ja-Stimmen. Der Vorschlag wurde einstimmig angenommen.
+Herr Klein schlug im weiteren vor:
+
+> Der Vorstand soll ermächtigt werden, gegebenenfalls notwendige Ergänzungen oder Änderungen bei der Satzung 
+> vorzunehmen, falls von Seiten des Registergerichts oder des Finanzamts Bedenken gegen die Eintragung 
+> vorgebracht werden. Es sei jedoch klargestellt, dass sich diese Ermächtigung nicht auf sonstige 
+> Satzungsbestimmungen bezieht.
+
+Der Vorschlag wurde mit sieben Ja-Stimmen einstimmig angenommen.
+
 
 ### Ausarbeitung einer Satzungsordnung
 
