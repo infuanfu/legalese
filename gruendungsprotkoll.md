@@ -1,7 +1,7 @@
 # Protokoll über die Gründung und erstmalige Mitgliederversammlung des Vereins infuanfu
 
-Am heutigen Montag, den 4. April 2016) versammelten sich um 22:06 in der Heinrich-Baumann-Str. 15, 
-70190 Stuttgart die in der als _Anlage 1_ beigefügten Anwesenheitsliste mit Namen und Anschrift genannten sieben Personen.
+Am heutigen Montag, den 4. April 2016 versammelten sich um 22:06 in der Heinrich-Baumann-Str. 15, 
+70190 Stuttgart die in der als **Anlage 1** beigefügten Anwesenheitsliste mit Namen und Anschrift genannten sieben Personen.
 
 Herr Jehle begrüßte die Anwesenden und übernahm im Einverständnis aller Anwesenden die Leitung der Versammlung. 
 Herr Bauer erklärte sich auf seinen Vorschlag hin bereit, das Protokoll der Versammlung zu führen. Dem wurde 
@@ -36,7 +36,7 @@ Der Vorschlag zur Gründung des Vereins und die Satzung wurden damit einstimmig 
 
 Sämtliche Erschienenen erklärten, dem neu errichteten Verein als Gründungsmitglieder anzugehören.
 
-Die Anwesenden unterschrieben die Satzung (_Anlage 2_).
+Die Anwesenden unterschrieben die Satzung (**Anlage 2**).
 
 ## TOP 3: Wahl des Vereinsvorstandes
 
