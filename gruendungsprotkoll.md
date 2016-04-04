@@ -40,8 +40,12 @@ Die Anwesenden unterschrieben die Satzung (**Anlage 2**).
 
 ## TOP 3: Wahl des Vereinsvorstandes
 
-Zur Wahl für den Vorstand stellten sich Gregor Jehle, Lasse Pommerenke und Armin Bauer. Die Abstimmung erfolgte einzeln
-durch Handzeichen. 
+Zur Wahl für den Vorstand stellten sich 
+ * Gregor Jehle (Softwareentwickler, wohnhaft in der Heinrich-Baumann-Str. 15 in 70190 Stuttgart)
+ * Lasse Pommerenke (Softwareentwickler, wohnhaft in der Heinrich-Baumann-Str. 15 in 70190 Stuttgart)
+ * Armin Bauer (Unternehmensberater, wohnhaft in der Augustenstr. 47, 70178 Stuttgart) 
+
+Die Kandidaten stellen sich kurz vor, sodann erfolgt die Abstimmung einzeln durch Handzeichen. 
 
 Gewählt wurden:
 * als Vorsitzender Herr Lasse Pommerenke mit Sieben Ja-Stimmen einstimmig
@@ -82,3 +86,8 @@ Ort, Datum
 
 
 Unterschrift der Schriftführers
+
+
+
+Unterschriften der Teilnehmer
+
