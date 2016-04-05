@@ -48,9 +48,9 @@ Zur Wahl für den Vorstand stellten sich
 Die Kandidaten stellen sich kurz vor, sodann erfolgt die Abstimmung einzeln durch Handzeichen. 
 
 Gewählt wurden:
-* als Vorsitzender Herr Lasse Pommerenke mit Sieben Ja-Stimmen und einer Enthaltung
+* als Vorsitzender Herr Lasse Pommerenke mit sieben Ja-Stimmen und einer Enthaltung
 * als Stellvertreter Herr Gregor Jehle mit acht Ja-Stimmen einstimmig
-* als Schriftführer Herr Armin Bauer mit sechs Ja-Stimmen und einer Enthaltung
+* als Schriftführer Herr Armin Bauer mit sieben Ja-Stimmen und einer Enthaltung
 
 Die Gewählten erklärten, dass sie die Wahl annehmen.
 
