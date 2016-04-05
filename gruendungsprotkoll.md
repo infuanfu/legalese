@@ -1,7 +1,7 @@
 # Protokoll über die Gründung und erstmalige Mitgliederversammlung des Vereins infuanfu
 
 Am heutigen Montag, den 4. April 2016 versammelten sich um 22:06 in der Heinrich-Baumann-Str. 15, 
-70190 Stuttgart die in der als **Anlage 1** beigefügten Anwesenheitsliste mit Namen und Anschrift genannten sieben Personen.
+70190 Stuttgart die in der als **Anlage 1** beigefügten Anwesenheitsliste mit Namen und Anschrift genannten acht Personen.
 
 Herr Jehle begrüßte die Anwesenden und übernahm im Einverständnis aller Anwesenden die Leitung der Versammlung. 
 Herr Bauer erklärte sich auf seinen Vorschlag hin bereit, das Protokoll der Versammlung zu führen. Dem wurde 
@@ -30,7 +30,7 @@ Der Satzungsentwurf wurde vorgelesen und diskutiert. Anschließend wurde darübe
 den Verein infuanfu zu errichten und ihm die vorgeschlagene Satzung zu geben. 
 
 ### Das Ergebnis der per Handzeichen erfolgten Abstimmung: 
-* Sieben Ja-Stimmen, keine Nein-Stimme und keine Enthaltungen
+* Acht Ja-Stimmen, keine Nein-Stimme und keine Enthaltungen
 
 Der Vorschlag zur Gründung des Vereins und die Satzung wurden damit einstimmig angenommen.
 
@@ -48,8 +48,8 @@ Zur Wahl für den Vorstand stellten sich
 Die Kandidaten stellen sich kurz vor, sodann erfolgt die Abstimmung einzeln durch Handzeichen. 
 
 Gewählt wurden:
-* als Vorsitzender Herr Lasse Pommerenke mit Sieben Ja-Stimmen einstimmig
-* als Stellvertreter Herr Gregor Jehle mit sieben Ja-Stimmen einstimmig
+* als Vorsitzender Herr Lasse Pommerenke mit Sieben Ja-Stimmen und einer Enthaltung
+* als Stellvertreter Herr Gregor Jehle mit acht Ja-Stimmen einstimmig
 * als Schriftführer Herr Armin Bauer mit sechs Ja-Stimmen und einer Enthaltung
 
 Die Gewählten erklärten, dass sie die Wahl annehmen.
@@ -75,7 +75,7 @@ Herr Klein schlug im weiteren vor:
 > vorgebracht werden. Es sei jedoch klargestellt, dass sich diese Ermächtigung nicht auf sonstige 
 > Satzungsbestimmungen bezieht.
 
-Der Vorschlag wurde mit sieben Ja-Stimmen einstimmig angenommen.
+Der Vorschlag wurde mit acht Ja-Stimmen einstimmig angenommen.
 
 
 ### Ausarbeitung einer Satzungsordnung
