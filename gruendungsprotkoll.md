@@ -17,7 +17,7 @@ Die Anwesenden stimmten durch ihr Handzeichen der Tagesordnung zu.
 
 ## TOP 1: Aussprache zur Gründung eines Vereins
 Herr Jehle erläuterte, dass die Dauer der gemeinsamen Projekte und der verwendete Resourcenbedarf so hoch seien, dass 
-es für die Anwesenden und weitere Interessennten sinnvoll sei, einen geordneten rechtlichen Rahmen zu schaffen. Da 
+es für die Anwesenden und weitere Interessenten sinnvoll sei, einen geordneten rechtlichen Rahmen zu schaffen. Da 
 gemeinsame Veranstaltungen geplant und auch verschiedentlich Geld- und Sachspenden erwartet werden,
 sei nach allgemeiner Überzeugung die Gründung eines beim Amtsgericht einzutragenden Vereins
 der richtige Weg.
