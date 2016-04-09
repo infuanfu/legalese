@@ -49,7 +49,7 @@ Die Kandidaten stellen sich kurz vor, sodann erfolgt die Abstimmung einzeln durc
 
 Gewählt wurden:
 * als Vorsitzender Herr Lasse Pommerenke mit sieben Ja-Stimmen und einer Enthaltung
-* als Stellvertreter Herr Gregor Jehle mit acht Ja-Stimmen einstimmig
+* als Kassenwart Herr Gregor Jehle mit acht Ja-Stimmen einstimmig
 * als Schriftführer Herr Armin Bauer mit sieben Ja-Stimmen und einer Enthaltung
 
 Die Gewählten erklärten, dass sie die Wahl annehmen.
