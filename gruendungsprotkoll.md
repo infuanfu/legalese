@@ -1,6 +1,6 @@
 # Protokoll über die Gründung und erstmalige Mitgliederversammlung des Vereins infuanfu
 
-Am heutigen Montag, den 4. April 2016 versammelten sich um 22:06 in der Heinrich-Baumann-Str. 15, 
+Am heutigen Samstag, den 9. April 2016 versammelten sich um 16:03 in der Heinrich-Baumann-Str. 15, 
 70190 Stuttgart die in der als **Anlage 1** beigefügten Anwesenheitsliste mit Namen und Anschrift genannten acht Personen.
 
 Herr Jehle begrüßte die Anwesenden und übernahm im Einverständnis aller Anwesenden die Leitung der Versammlung. 
@@ -70,7 +70,7 @@ Der Beschlussvorschlag wurde einstimmig angenommen.
 
 Herr Klein schlug im weiteren vor:
 
-> Der Vorstand soll ermächtigt werden, gegebenenfalls notwendige Ergänzungen oder Änderungen bei der Satzung 
+> Der Vorstand soll ermächtigt werden, gegebenenfalls notwendige Ergänzungen oder Änderungen an der Satzung 
 > vorzunehmen, falls von Seiten des Registergerichts oder des Finanzamts Bedenken gegen die Eintragung 
 > vorgebracht werden. Es sei jedoch klargestellt, dass sich diese Ermächtigung nicht auf sonstige 
 > Satzungsbestimmungen bezieht.
@@ -86,7 +86,7 @@ Interessenten nicht abzuschrecken.
 Es erfolgt keine Abstimmung.
 
 
-Die Sitzung endet um 22:40 Uhr.
+Die Sitzung endet um 18:07 Uhr.
 
 
 Ort, Datum
