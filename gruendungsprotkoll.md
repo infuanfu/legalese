@@ -94,7 +94,7 @@ Ort, Datum
 
 
 
-Unterschrift der Schriftführers
+Unterschrift der Protokollantens
 
 
 
