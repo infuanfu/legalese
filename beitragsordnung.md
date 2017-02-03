@@ -6,7 +6,7 @@
 1. Die Beitragspflicht erlischt mit Ausscheiden aus dem Verein. Etwaig zuviel geleistete Beiträge werden anteilig auf das laufende Jahr ausbezahlt.
 
 ## § 2 Beitragshöhe
-1. Die Beitragshöhe wird individuell festgelegt.
+1. Die Beitragshöhe beläuft sich auf monatlich mindestens 10 EUR.
 1. Eine Änderung der individuellen Beitragshöhe ist mit Zustimmung des Vorstands jederzeit möglich.
 
 ## § 3 Arten der Mitgliedschaften
