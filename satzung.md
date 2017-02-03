@@ -49,7 +49,7 @@ Näheres regelt die Beitragsordnung.
 1. Der Ausschluss gilt mit sofortiger Wirkung.
 
 ### § 4.4 Mitgliedsbeitrag
-1. Der Mitgliedsbeitrag wird durch die Beitragsordnung geregelt.
+1. Die Höhe des Mitgliedsbeitrags wird durch die Beitragsordnung geregelt. Die Beitragsordnung wird durch den Vorstand beschlossen.
 
 ## § 5 Organe des Vereins
 Organe des Vereins sind
