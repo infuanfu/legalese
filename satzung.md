@@ -7,7 +7,7 @@
 
 ## § 2 Zweck und Tätigkeiten des Vereins
 ### § 2.1 Vereinszweck
-1. Fort- & Weiterbildung mit Schwerpunkt auf den Bereichen Technik und Naturwissenschaften, hauptsächlich seiner Mitglieder.
+1. Fort- & Weiterbildung hauptsächlich seiner Mitglieder mit Schwerpunkt auf die Bereiche Technik, Naturwissenschaften und Handwerk.
 1. Zertiﬁzierung von Leistungen und erworbenem Wissen.
 1. Ressourcenbereitstellung für die Arbeiten seiner Mitglieder.
 
