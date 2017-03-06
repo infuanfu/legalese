@@ -7,7 +7,7 @@
 
 ## § 2 Zweck und Tätigkeiten des Vereins
 ### § 2.1 Vereinszweck
-1. Fort- & Weiterbildung, hauptsächlich seiner Mitglieder.
+1. Fort- & Weiterbildung mit Schwerpunkt auf den Bereichen Technik und Naturwissenschaften, hauptsächlich seiner Mitglieder.
 1. Zertiﬁzierung von Leistungen und erworbenem Wissen.
 1. Ressourcenbereitstellung für die Arbeiten seiner Mitglieder.
 
@@ -49,7 +49,7 @@ Näheres regelt die Beitragsordnung.
 1. Der Ausschluss gilt mit sofortiger Wirkung.
 
 ### § 4.4 Mitgliedsbeitrag
-1. Der Mitgliedsbeitrag wird durch die Beitragsordnung geregelt.
+1. Die Höhe des Mitgliedsbeitrags wird durch die Beitragsordnung geregelt. Die Beitragsordnung wird durch den Vorstand beschlossen.
 
 ## § 5 Organe des Vereins
 Organe des Vereins sind
