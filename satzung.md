@@ -58,7 +58,7 @@ Organe des Vereins sind
 1. die Mitgliederversammlung.
 
 ### § 5.1 Vorstand
-1. Der Vorstand (§ 26 BGB) besteht aus dem Vorsitzenden, dem Kassenwart und dem Schriftführer.
+1. Der Vorstand (§ 26 BGB) besteht aus dem Vorsitzenden und dem Kassenwart.
 1. Jedes Vorstandsmitglied ist bei Rechtsgeschäften bis zu einem Höchstbetrag von 1500 EURO alleinvertretungsberechtigt im Sinne des § 26 BGB. Bei Rechtsgeschäften über 1500 EURO ist die Vertretung durch zwei Vorstandsmitglieder erforderlich.
 1. Der Kassenwart überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
 1. Mit dem Ablauf des Geschäftsjahres stellt der Kassenwart unverzüglich die Abrechnung, sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichen Belangen den Finanzprüfern des Vereins zur Prüfung zur Verfügung.
