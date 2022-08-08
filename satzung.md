@@ -3,7 +3,7 @@
 ## § 1 Name und Sitz
 1. Der Verein führt den Namen "Institut für angewandte Futuristik", abgekürzt "infuanfu".
 1. Er führt nach Eintragung in das Vereinsregister den Namenszusatz "eingetragener Verein" in der abgekürzten Form "e. V.".
-1. Der Verein hat seinen Sitz in Stuttgart.
+1. Der Verein hat seinen Sitz in Wartenberg.
 
 ## § 2 Zweck und Tätigkeiten des Vereins
 ### § 2.1 Vereinszweck
